@@ -8,6 +8,6 @@ A short game made in Unity!
 
 ## 📸 Screenshots & 🎥 Gameplay Video
 
-(https://github.com/NearLovesElo/Eldershard/tree/main/Eldershard%20Screenshots)
+https://github.com/NearLovesElo/Eldershard/tree/main/Eldershard%20Screenshots
 
 
