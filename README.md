@@ -6,12 +6,8 @@ A short game made in Unity!
 
 📦 [Download Eldershard Build (.zip)](Link)
 
-## 📸 Screenshots
+## 📸 Screenshots & 🎥 Gameplay Video
 
-![Screenshot 1](Screenshots/screenshot1.png)
-![Screenshot 2](Screenshots/screenshot2.png)
+Screenshot and Gameplay Video (https://github.com/NearLovesElo/Eldershard/tree/main/Eldershard%20Screenshots)
 
-## 🎥 Gameplay Video
-
-[Watch Gameplay on YouTube](https://youtube.com/your-video-link)
 
